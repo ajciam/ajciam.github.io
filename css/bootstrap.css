@@ -9762,10 +9762,10 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .enterprise {
-  background-image: url("https://www.imgbase.info/images/safe-wallpapers/tv_movies/star_trek/49344_star_trek_enterprise_ncc1701d_galaxy.jpg");
+  background-image: url("https://i.redd.it/cjwihhen2n511.png");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: 50% 25%;
 
 }
 
@@ -9774,8 +9774,15 @@ a.text-dark:hover, a.text-dark:focus {
    background-color: white;
    opacity: 0.6;
    width: 350px;
-   margin-left: 700px;
+   margin-left: 40%;
    text-align: center;
+
+
+}
+
+.abtme{
+
+  padding: 0px 0px;
 
 
 }
