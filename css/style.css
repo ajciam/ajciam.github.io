@@ -25,3 +25,10 @@
 .bottom-margin {
   margin-bottom: 30px;
 }
+.footer {
+
+            width: 100%;
+            bottom: 0;
+            position: relative;
+
+}
